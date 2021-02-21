@@ -27,9 +27,51 @@ let minimums = {}
 
 //////////////////////////////////////////////////////////////////////////////////
 
-const margin_pairs = ['ADABTC', 'ATOMBTC','BATBTC','BCHBTC','BNBBTC','DASHBTC','EOSBTC','ETCBTC',
-    'ETHBTC','IOSTBTC','IOTABTC','LINKBTC','LTCBTC','MATICBTC','NEOBTC','ONTBTC','QTUMBTC',
-    'RVNBTC','TRXBTC','VETBTC','XLMBTC','XMRBTC','XRPBTC','XTZBTC','ZECBTC']
+const margin_pairs = [
+    "BNBBTC", 
+    "TRXBTC", 
+    "XRPBTC", 
+    "ETHBTC", 
+    "EOSBTC", 
+    "LINKBTC", 
+    "ONTBTC", 
+    "ADABTC", 
+    "ETCBTC", 
+    "LTCBTC", 
+    "XLMBTC", 
+    "XMRBTC", 
+    "NEOBTC", 
+    "ATOMBTC", 
+    "DASHBTC", 
+    "ZECBTC", 
+    "MATICBTC", 
+    "BATBTC", 
+    "IOSTBTC", 
+    "VETBTC", 
+    "QTUMBTC", 
+    "IOTABTC", 
+    "XTZBTC", 
+    "BCHBTC", 
+    "RVNBTC", 
+    "ZILBTC", 
+    "DOTBTC", 
+    "ALGOBTC", 
+    "THETABTC", 
+    "COMPBTC", 
+    "OMGBTC", 
+    "DOGEBTC", 
+    "WAVESBTC", 
+    "SNXBTC", 
+    "YFIBTC", 
+    "CRVBTC", 
+    "SUSHIBTC", 
+    "UNIBTC", 
+    "YFIIBTC", 
+    "NEARBTC", 
+    "FILBTC", 
+    "AAVEBTC", 
+    "GRTBTC"
+]
 
 //////////////////////////////////////////////////////////////////////////////////
 
